@@ -1,9 +1,5 @@
 source ~/.bash/aliases
 source ~/.bash/rbenv
-source ~/.bash/aws
-source ~/.bash/android
-source ~/.bash/haskell
-source ~/.bash/heroku
 source ~/.bash/gitprompt.sh
 source ~/.bash/node
 
